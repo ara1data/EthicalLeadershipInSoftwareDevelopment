@@ -4,7 +4,7 @@ The use of behavioral analytics in political campaigns had raised significant et
 This fine-grained data enables businesses to analyze and understand customer behavior with remarkable precision, unlocking insights that were previously unattainable (Data Calculus, n.d.). The proliferation of digital touchpoints, combined with advanced data storage and processing capabilities, has made it feasible to collect and analyze vast amounts of behavioral data in real-time, allowing for more accurate predictions and personalized experiences (Statsig, 2024). Furthermore, the integration of artificial intelligence and machine learning technologies has enhanced the ability to process and derive meaningful insights from this granular data, making behavioral analytics more powerful and accessible than ever before (MixMode, 2023).<br/>
 
 # Research Paper: 
-- [Ethics of Behavioral Analytics in Political Campaigns](https://github.com/ara1data/EthicalLeadershipInSoftwareDevelopment/blob/90012e02a53fa3d56fcba14eab4ae1c45a225ab7/Reichart-Anderson%2C%20A.%20(2025).%20Ethics%20of%20Behavioral%20Analytics%20in%20Political%20Campaigns..pdf)
+- [Ethics of Behavioral Analytics in Political Campaigns](https://github.com/ara1data/EthicalLeadershipInSoftwareDevelopment/blob/2c793957ce7b99c3465bc567468dbba3587b0bf4/Behavioral%20Analytics/Reichart-Anderson%2C%20A.%20(2025).%20Ethics%20of%20Behavioral%20Analytics%20in%20Political%20Campaigns..pdf)
 
 # References
 ## General
